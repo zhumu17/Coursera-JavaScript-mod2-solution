@@ -1,2 +1,2 @@
 # E-Commerce-Customer-Action-Prediction
-Using machine learning models to predict customer's action 
+This is an exercies to use machine learning models to predict customer's action 
